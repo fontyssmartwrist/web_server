@@ -2,7 +2,7 @@
 web_server
 =====================================================================
 
-This package contains the visulation of robot model and robot model controller.
+This package contains the visulation of robot model and robot model controller in web server.
 
 Dependencies
 =====================================================================
