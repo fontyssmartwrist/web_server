@@ -34,4 +34,5 @@ Documentation how it works can be found in Documentation_on_MoveIt.pdf and Web_R
 Authors
 =====================================================================
 Aike van Alkemade
+
 Zhicheng Yu
