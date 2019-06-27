@@ -10,6 +10,8 @@ Dependencies
 
 [The robot model](https://github.com/fontyssmartwrist/sw_v3_description)
 
+[The MoveIt! commander ROS node](https://github.com/fontyssmartwrist/smart_movement)
+
 Install guide
 =====================================================================
    1) Install MoveIt! kinetic with the following command
