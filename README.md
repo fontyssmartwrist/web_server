@@ -39,6 +39,10 @@ To start the web server:
     
     roslaunch web_server webserver.launch
     
+To start the commander node:
+   
+    rosrun smart_movement web_moveit_coordinate_node.py
+ 
 Documentation
 =====================================================================
 Documentation how it works can be found in 
