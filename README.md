@@ -29,7 +29,9 @@ Install guide
     
 Documentation
 =====================================================================
-Documentation how it works can be found in Documentation_on_MoveIt.pdf and Web_ROS_CodeSys_Report.pdf
+Documentation how it works can be found in Documentation_on_MoveIt.pdf https://github.com/fontyssmartwrist/smart_movement/blob/master/Documentation_on_MoveIt.pdf  
+
+Web_ROS_CodeSys_Report.pdf
 
 Authors
 =====================================================================
