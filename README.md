@@ -22,7 +22,7 @@ Install guide
    
    3) Install rosbridge server with the following command
    
-    sudo apt-get install ros-<rosdistro>-rosbridge-server
+    sudo apt-get install ros-kinetic-rosbridge-server
    
    4) Clone this project and the dependencies to your catkin's workspace src folder
    5) Run catkin_make to build 
