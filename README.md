@@ -33,7 +33,7 @@ Running
 =====================================================================
 Start with running the MoveIt! package launch file with the following command in the terminal:
 
-roslaunch moveit_smart_wrist demo.launch
+'roslaunch moveit_smart_wrist demo.launch'
 
 To start the web server:
 
