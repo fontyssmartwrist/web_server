@@ -6,7 +6,7 @@ This package contains the visulation of robot model and robot model controller i
 
 Dependencies
 =====================================================================
-[The MoveIt! package](https://github.com/fontyssmartwrist/moveit_smart_wrist)
+[The MoveIt! smart wrist package](https://github.com/fontyssmartwrist/moveit_smart_wrist)
 
 [The robot model](https://github.com/fontyssmartwrist/sw_v3_description)
 
