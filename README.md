@@ -55,6 +55,6 @@ https://github.com/fontyssmartwrist/web_server/blob/master/Web_ROS_CodeSys_Repor
 
 Authors
 =====================================================================
-Aike van Alkemade
+Aike van Alkemade // author name in caps//
 
-Zhicheng Yu
+Zhicheng Yu   //social handles should be provided//
